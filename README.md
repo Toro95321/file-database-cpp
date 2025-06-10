@@ -49,7 +49,6 @@ file-database-cpp/
 #include <string>    // Для работы со строками (string)
 #include <iomanip>   // Для форматированного вывода (setw, left)
 #include <limits>    // Для работы с пределами типов (numeric_limits)
-
 using namespace std; // Используем стандартное пространство имен
 
 class Database {
